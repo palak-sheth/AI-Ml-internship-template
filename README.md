@@ -1,2 +1,3 @@
-# AI-Ml-internship-template
-this is my first project repository
+## Internship Task
+Setting up Git, GitHub, and project structure for AI/ML internship.
+
