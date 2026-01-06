@@ -5,6 +5,7 @@ LLM(large language model)
     -Examples of LLM includes chat GPT, Gemini, LLaMA.
 
 how does an llm works?
+
     -LLM works by predicating the next word or token based on the input text or previous context.
     -So they do not "thinks" like human; instead, they uses probability to choose the most suitable next token.
 
